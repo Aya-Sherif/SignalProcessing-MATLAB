@@ -31,5 +31,5 @@ This repository contains a comprehensive Digital Signal Processing (DSP) project
 This project is a collaborative effort by:
 - Aya Sherif
 - Nada Nabil
-- Raghda Salah
+- Rghda Salah
 - Tasneem Muhammed 
